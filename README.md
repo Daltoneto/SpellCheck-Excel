@@ -1,5 +1,5 @@
-# EXCEL
-Ribbons - Excel Personalizado
+# Corretor Ortográfico em Excel
+
 Descrição do Projeto: Corretor Ortográfico em Excel
 
 Objetivo:
